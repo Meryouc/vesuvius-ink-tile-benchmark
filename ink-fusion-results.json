@@ -1,0 +1,93 @@
+{
+  "selected": "coarse",
+  "best_blend": "blend_0.05",
+  "development_0814": {
+    "coarse": {
+      "average_precision": 0.9338755765032831,
+      "dice_at_128": 0.8430154813696745,
+      "recall_at_128": 0.9238728725095763,
+      "false_positive_pixels_at_128": 536749,
+      "positive_pixels": 2003123,
+      "negative_pixels": 4846172
+    },
+    "fine": {
+      "average_precision": 0.5107305213230708,
+      "dice_at_128": 0.44645546758326354,
+      "recall_at_128": 0.4191430081927071,
+      "false_positive_pixels_at_128": 918441,
+      "positive_pixels": 2003123,
+      "negative_pixels": 4846172
+    },
+    "blend_0.05": {
+      "average_precision": 0.9332988477768738,
+      "dice_at_128": 0.8439212134933213,
+      "recall_at_128": 0.9211426357742385,
+      "false_positive_pixels_at_128": 524545,
+      "positive_pixels": 2003123,
+      "negative_pixels": 4846172
+    },
+    "blend_0.1": {
+      "average_precision": 0.9261496311016609,
+      "dice_at_128": 0.844431528800585,
+      "recall_at_128": 0.9182521492689166,
+      "false_positive_pixels_at_128": 513979,
+      "positive_pixels": 2003123,
+      "negative_pixels": 4846172
+    },
+    "blend_0.25": {
+      "average_precision": 0.902782436960258,
+      "dice_at_128": 0.8438073306789258,
+      "recall_at_128": 0.9033019939364682,
+      "false_positive_pixels_at_128": 476168,
+      "positive_pixels": 2003123,
+      "negative_pixels": 4846172
+    },
+    "blend_0.5": {
+      "average_precision": 0.7812228868303219,
+      "dice_at_128": 0.5147109393843149,
+      "recall_at_128": 0.43040142816991267,
+      "false_positive_pixels_at_128": 484754,
+      "positive_pixels": 2003123,
+      "negative_pixels": 4846172
+    },
+    "blend_0.75": {
+      "average_precision": 0.6910485600084098,
+      "dice_at_128": 0.4638037494542578,
+      "recall_at_128": 0.4232061635755767,
+      "false_positive_pixels_at_128": 804715,
+      "positive_pixels": 2003123,
+      "negative_pixels": 4846172
+    }
+  },
+  "validation": {
+    "0814": {
+      "coarse": {
+        "average_precision": 0.8986018849746086,
+        "dice_at_128": 0.8529322426659187,
+        "recall_at_128": 0.8893142080246198,
+        "false_positive_pixels_at_128": 185967,
+        "positive_pixels": 948830,
+        "negative_pixels": 1616300
+      },
+      "fine": {
+        "average_precision": 0.7788898196230254,
+        "dice_at_128": 0.7478543903058228,
+        "recall_at_128": 0.8320436748416471,
+        "false_positive_pixels_at_128": 372990,
+        "positive_pixels": 948830,
+        "negative_pixels": 1616300
+      },
+      "blend_0.05": {
+        "average_precision": 0.8927169677051296,
+        "dice_at_128": 0.8522804856047395,
+        "recall_at_128": 0.8887271692505507,
+        "false_positive_pixels_at_128": 186730,
+        "positive_pixels": 948830,
+        "negative_pixels": 1616300
+      }
+    }
+  },
+  "skipped": {
+    "1667": "Unequal resize factors for 1667: [1.06921053 1.05523627]"
+  }
+}

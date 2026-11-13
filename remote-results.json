@@ -1,0 +1,138 @@
+{
+  "0814": {
+    "prediction": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHerc0814/segments/20260226000000-46527_2um_try2/ink-detection/PHerc0814-20260226000000-2.399um-0.22m-78keV-volume-20260309142202-20260417190342-new_canon_autoresearch_recipe-tile256-stride128.tif",
+    "labels": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHerc0814/segments/20260226000000-46527_2um_try2/ink-labels/2.399um-volume-20260309142202/20260918",
+    "tiff_bytes_read": 753389,
+    "tiff_size": 9025247,
+    "range_requests": 17,
+    "tiles_read": 6,
+    "tiff_read_seconds": 5.316,
+    "scores": {
+      "average_precision": 0.8986018849746086,
+      "dice_at_128": 0.8529322426659187,
+      "recall_at_128": 0.8893142080246198,
+      "false_positive_pixels_at_128": 185967,
+      "positive_pixels": 948830,
+      "negative_pixels": 1616300
+    }
+  },
+  "1667": {
+    "prediction": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHerc1667/segments/20251212185248-w029_20251212185248662_flatboi/ink-detection/PHerc1667-20251212185248-2.399um-0.22m-78keV-volume-20251217075048-20260417190342-new_canon_autoresearch_recipe-tile256-stride128.tif",
+    "labels": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHerc1667/segments/20251212185248-w029_20251212185248662_flatboi/ink-labels/2.399um-volume-20251217075048/20260918",
+    "tiff_bytes_read": 1836794,
+    "tiff_size": 120700175,
+    "range_requests": 25,
+    "tiles_read": 14,
+    "tiff_read_seconds": 6.716,
+    "scores": {
+      "average_precision": 0.8292872746180975,
+      "dice_at_128": 0.71765135031358,
+      "recall_at_128": 0.8084413992773496,
+      "false_positive_pixels_at_128": 616682,
+      "positive_pixels": 1387116,
+      "negative_pixels": 4706223
+    }
+  },
+  "0139-044": {
+    "prediction": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHerc0139/segments/20260115000000-w044_2026011522/ink-detection/PHerc0139-20260115000000-2.399um-0.22m-78keV-volume-20260102150214-20260417190342-new_canon_autoresearch_recipe-tile256-stride128.tif",
+    "labels": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHerc0139/segments/20260115000000-w044_2026011522/ink-labels/2.399um-volume-20260102150214/20260918",
+    "tiff_bytes_read": 1166519,
+    "tiff_size": 75928665,
+    "range_requests": 21,
+    "tiles_read": 10,
+    "tiff_read_seconds": 7.031,
+    "scores": {
+      "average_precision": 0.6829096948160781,
+      "dice_at_128": 0.5518223034260971,
+      "recall_at_128": 0.447493850631155,
+      "false_positive_pixels_at_128": 174188,
+      "positive_pixels": 998883,
+      "negative_pixels": 2625509
+    }
+  },
+  "0139-045": {
+    "prediction": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHerc0139/segments/20260126000000-w045_2026012619/ink-detection/PHerc0139-20260126000000-2.399um-0.22m-78keV-volume-20260102150214-20260417190342-new_canon_autoresearch_recipe-tile256-stride128.tif",
+    "labels": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHerc0139/segments/20260126000000-w045_2026012619/ink-labels/2.399um-volume-20260102150214/20260918",
+    "tiff_bytes_read": 483336,
+    "tiff_size": 69661736,
+    "range_requests": 15,
+    "tiles_read": 4,
+    "tiff_read_seconds": 5.254,
+    "scores": {
+      "average_precision": 0.8260345967225112,
+      "dice_at_128": 0.7476798023956428,
+      "recall_at_128": 0.8786420442814288,
+      "false_positive_pixels_at_128": 155345,
+      "positive_pixels": 329348,
+      "negative_pixels": 819824
+    }
+  },
+  "1667-018": {
+    "prediction": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHerc1667/segments/20240304144031-w018_20240304144031_flatboi/ink-detection/PHerc1667-20240304144031-2.399um-0.22m-78keV-volume-20251217075048-20260417190342-new_canon_autoresearch_recipe-tile256-stride128.tif",
+    "labels": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHerc1667/segments/20240304144031-w018_20240304144031_flatboi/ink-labels/2.399um-volume-20251217075048/20260918",
+    "tiff_bytes_read": 4780861,
+    "tiff_size": 340198227,
+    "range_requests": 62,
+    "tiles_read": 51,
+    "tiff_read_seconds": 15.1,
+    "scores": {
+      "average_precision": 0.8589159355017133,
+      "dice_at_128": 0.7858886867372364,
+      "recall_at_128": 0.7448407275433135,
+      "false_positive_pixels_at_128": 989912,
+      "positive_pixels": 6568901,
+      "negative_pixels": 24387451
+    }
+  },
+  "1667-023": {
+    "prediction": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHerc1667/segments/20240304161941-w023_20240304161941_flatboi/ink-detection/PHerc1667-20240304161941-2.399um-0.22m-78keV-volume-20251217075048-20260417190342-new_canon_autoresearch_recipe-tile256-stride128.tif",
+    "labels": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHerc1667/segments/20240304161941-w023_20240304161941_flatboi/ink-labels/2.399um-volume-20251217075048/20260918",
+    "tiff_bytes_read": 1906998,
+    "tiff_size": 386183976,
+    "range_requests": 29,
+    "tiles_read": 18,
+    "tiff_read_seconds": 8.089,
+    "scores": {
+      "average_precision": 0.7969511312029605,
+      "dice_at_128": 0.6971397189358056,
+      "recall_at_128": 0.6048745534389043,
+      "false_positive_pixels_at_128": 254835,
+      "positive_pixels": 1953820,
+      "negative_pixels": 7475198
+    }
+  },
+  "1667-028": {
+    "prediction": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHerc1667/segments/20251208130119-w028_20251208130119156_flatboi/ink-detection/PHerc1667-20251208130119-2.399um-0.22m-78keV-volume-20251217075048-20260417190342-new_canon_autoresearch_recipe-tile256-stride128.tif",
+    "labels": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHerc1667/segments/20251208130119-w028_20251208130119156_flatboi/ink-labels/2.399um-volume-20251217075048/20260918",
+    "tiff_bytes_read": 1882396,
+    "tiff_size": 122072424,
+    "range_requests": 24,
+    "tiles_read": 13,
+    "tiff_read_seconds": 6.714,
+    "scores": {
+      "average_precision": 0.838945567921331,
+      "dice_at_128": 0.7424276424378852,
+      "recall_at_128": 0.8901594007705985,
+      "false_positive_pixels_at_128": 812524,
+      "positive_pixels": 1600055,
+      "negative_pixels": 4830736
+    }
+  },
+  "1667-031": {
+    "prediction": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHerc1667/segments/20251223230000-w031_2025122323_flatboi/ink-detection/PHerc1667-20251223230000-2.399um-0.22m-78keV-volume-20251217075048-20260417190342-new_canon_autoresearch_recipe-tile256-stride128.tif",
+    "labels": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHerc1667/segments/20251223230000-w031_2025122323_flatboi/ink-labels/2.399um-volume-20251217075048/20260918",
+    "tiff_bytes_read": 3970123,
+    "tiff_size": 88827608,
+    "range_requests": 43,
+    "tiles_read": 32,
+    "tiff_read_seconds": 10.336,
+    "scores": {
+      "average_precision": 0.7226066136035553,
+      "dice_at_128": 0.6332554486998228,
+      "recall_at_128": 0.6455459812547967,
+      "false_positive_pixels_at_128": 972079,
+      "positive_pixels": 2471779,
+      "negative_pixels": 7040580
+    }
+  }
+}
